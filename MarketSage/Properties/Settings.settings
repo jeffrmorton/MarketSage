@@ -1,0 +1,78 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MarketSage.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FormMainSize" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">780, 460</Value>
+    </Setting>
+    <Setting Name="FormMainLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">50, 50</Value>
+    </Setting>
+    <Setting Name="FormMainWindowState" Type="System.Windows.Forms.FormWindowState" Scope="User">
+      <Value Profile="(Default)">Normal</Value>
+    </Setting>
+    <Setting Name="GlobalDirectoryRoot" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="GlobalDirectoryMarkets" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\markets\</Value>
+    </Setting>
+    <Setting Name="GlobalDirectoryLogs" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\logs\</Value>
+    </Setting>
+    <Setting Name="GlobalDirectoryWork" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\work\</Value>
+    </Setting>
+    <Setting Name="GlobalDirectoryData" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\data\</Value>
+    </Setting>
+    <Setting Name="GlobalDirectoryPlugins" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\plugins\</Value>
+    </Setting>
+    <Setting Name="GlobalDirectoryReports" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\reports\</Value>
+    </Setting>
+    <Setting Name="GlobalMarket" Type="System.String" Scope="User">
+      <Value Profile="(Default)">IXNDX</Value>
+    </Setting>
+    <Setting Name="FormStrategyEvolverPopulationConstraint" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">999</Value>
+    </Setting>
+    <Setting Name="randomMinIndicators" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="randomMaxIndicators" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">7</Value>
+    </Setting>
+    <Setting Name="randomMinPeriod" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="randomMaxPeriod" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">252</Value>
+    </Setting>
+    <Setting Name="FormStrategyEvolverRandomChanceChecked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="FormStrategyEvolverNaturalSelectionChecked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="FormStrategyEvolverGeneticEvolutionChecked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="FormStrategyEvolverNaturalSelectionOOSChecked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="GlobalPeriod" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1095</Value>
+    </Setting>
+    <Setting Name="BrokerCommision" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">9.99</Value>
+    </Setting>
+    <Setting Name="GlobalDirectorySchedules" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\schedules\</Value>
+    </Setting>
+    <Setting Name="AccountInitialBalance" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">10000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

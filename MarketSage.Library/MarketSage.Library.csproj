@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3F2CCE55-61F7-4270-A72B-E406BE2690AE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MarketSage.Library</RootNamespace>
+    <AssemblyName>MarketSage.Library</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>
+    </DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG</DefineConstants>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>ManagedMinimumRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <Optimize>true</Optimize>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>ManagedMinimumRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="otfeed_net, Version=1.0.0.16, Culture=neutral, PublicKeyToken=67a87b0807991531, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\MarketSage\otfeed_net.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZedGraph, Version=5.0.2.23783, Culture=neutral, PublicKeyToken=02a83cbd123fcd60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\MarketSage\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Temporary\Charting\Bars.cs" />
+    <Compile Include="Temporary\Charting\Chart.cs" />
+    <Compile Include="Temporary\Charting\ChartType.cs" />
+    <Compile Include="Temporary\Charting\Drawing.cs" />
+    <Compile Include="Temporary\Charting\Elapsed.cs" />
+    <Compile Include="Temporary\Charting\GraphType.cs" />
+    <Compile Include="Temporary\Charting\Interval.cs" />
+    <Compile Include="Temporary\Charting\LineStyle.cs" />
+    <Compile Include="Temporary\Charting\Log.cs" />
+    <Compile Include="Miscellaneous\DataSource.cs" />
+    <Compile Include="Miscellaneous\StrategyTester.cs" />
+    <Compile Include="Miscellaneous\CompoundIndicator.cs" />
+    <Compile Include="Miscellaneous\IIndicator.cs" />
+    <Compile Include="Miscellaneous\Account.cs" />
+    <Compile Include="Miscellaneous\AvailablePlugin.cs" />
+    <Compile Include="Miscellaneous\AvailablePlugins.cs" />
+    <Compile Include="Miscellaneous\CalanderEvent.cs" />
+    <None Include="Temporary\CSVParser.cs" />
+    <Compile Include="Miscellaneous\Engine.cs" />
+    <None Include="Temporary\FastRandom.cs" />
+    <Compile Include="Miscellaneous\Histo.cs" />
+    <Compile Include="Miscellaneous\Instrument.cs" />
+    <Compile Include="Miscellaneous\InternetConnection.cs" />
+    <Compile Include="Miscellaneous\Market.cs" />
+    <Compile Include="Miscellaneous\Network.cs" />
+    <Compile Include="Miscellaneous\Neuron.cs" />
+    <None Include="Temporary\NormalDist.cs" />
+    <Compile Include="Miscellaneous\Observer.cs" />
+    <Compile Include="Miscellaneous\Order.cs" />
+    <Compile Include="Miscellaneous\PluginServices.cs" />
+    <Compile Include="Miscellaneous\Portfolio.cs" />
+    <Compile Include="Miscellaneous\QuoteServices.cs" />
+    <Compile Include="Miscellaneous\Schedule.cs" />
+    <Compile Include="Miscellaneous\Scheduler.cs" />
+    <Compile Include="Miscellaneous\SchedulerException.cs" />
+    <None Include="Temporary\ScheduleTypes.cs" />
+    <Compile Include="Miscellaneous\Statistics.cs" />
+    <Compile Include="Miscellaneous\SupportClass.cs" />
+    <Compile Include="Miscellaneous\Trader.cs" />
+    <Compile Include="Miscellaneous\TrainingInstance.cs" />
+    <Compile Include="Miscellaneous\TrainingSet.cs" />
+    <Compile Include="Miscellaneous\Transaction.cs" />
+    <Compile Include="Miscellaneous\TransactionEvent.cs" />
+    <Compile Include="Temporary\Charting\PaneType.cs" />
+    <Compile Include="Temporary\Charting\Positioning.cs" />
+    <Compile Include="Temporary\Charting\Prices.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reports\AnnualReport.cs" />
+    <Compile Include="Reports\DataQualityReport.cs" />
+    <Compile Include="Reports\TransactionsReport.cs" />
+    <Compile Include="Miscellaneous\StandardEntry.cs" />
+    <Compile Include="Miscellaneous\StandardExit.cs" />
+    <Compile Include="Temporary\Charting\Side.cs" />
+    <Compile Include="Strategies\AbstractStrategy.cs" />
+    <Compile Include="Strategies\GeneticStrategy.cs" />
+    <Compile Include="Strategies\RandomStrategy.cs" />
+    <Compile Include="Strategies\TestStrategy.cs" />
+    <Compile Include="Miscellaneous\TechnicalData.cs" />
+    <Compile Include="Temporary\Charting\Tick.cs" />
+    <Compile Include="Temporary\Charting\Times.cs" />
+    <Compile Include="Temporary\Charting\TimeStamp.cs" />
+    <Compile Include="Temporary\Charting\TimeUnit.cs" />
+    <Compile Include="Temporary\Charting\WeekDay.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\genericparser_src\GenericParser_src\GenericParsing\GenericParsing.csproj">
+      <Project>{add325f8-cbd9-43fe-850d-e2f34d736c9d}</Project>
+      <Name>GenericParsing</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MarketSage.Plugin.BuyandHold" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIAAAAYAoEAAAkAAAAAQAgAQgCAAACAAAAAAAhEA=</HashCode>
+      <FileName>BuyandHold.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MarketSage.Plugin.Aroon" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIAAABYEoEAAAkAAAAAQAgAwgCAAACAAAAAAAhEA=</HashCode>
+      <FileName>Aroon.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MarketSage.Plugin.AroonO" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIAAABYEoEAAAkAAAAAQAgAwgCAAACAAAAAAAhEI=</HashCode>
+      <FileName>AroonO.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MarketSage.Plugin.ATR" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIAAABYEoEAAAkQAAAAQAgAQgCAAAiAAAAAAAxEI=</HashCode>
+      <FileName>ATR.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MarketSage.Plugin.BB" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIAACBYEoEAAAkAAAAAQAgAQgCAAAiAAAAAAChEI=</HashCode>
+      <FileName>BB.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MarketSage.Plugin.BOP" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIAAABYEoEAAAkAAAAAQAgAwgCAAACAAAAAAAhEI=</HashCode>
+      <FileName>BOP.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MarketSage.Plugin.CCDoM" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIAAAAYAoEAAAlAAAAAQAgAQgCAAACAAAAAAAhEA=</HashCode>
+      <FileName>CCDoM.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MarketSage.Plugin.CCI" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIAAABYEoEAAAkAAAAAQAgAQgCAAACAAAAAAAhEI=</HashCode>
+      <FileName>CCI.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MarketSage.Plugin.DeM" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIAAABYEoEAAQkAAAAAQAAAwgiAAACBAIAAAEhEI=</HashCode>
+      <FileName>DeM.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MarketSage.Plugin.EMA" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIAAABYEoEAAAkAAAAAQAgAQgCAAACAAAAAAAhEI=</HashCode>
+      <FileName>EMA.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MarketSage.Plugin.FibR" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIAAABYEoEAAAkAAAAAQAAAQgCAAACAAIAAAAhEA=</HashCode>
+      <FileName>FibR.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MarketSage.Plugin.LCP" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIAAAAYAsEAAAlABAAAQAgAQgCAgCCAAAAAAAhEA=</HashCode>
+      <FileName>LCP.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MarketSage.Plugin.LCZ" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAAgIAAAAYAoEAAAlIAAAAQQgAQgCAgACAABAAAApEA=</HashCode>
+      <FileName>LCZ.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MarketSage.Plugin.LR" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIAAABYEoEAAAkAAAAAQAgAQgCAAACAAAAAAAhEI=</HashCode>
+      <FileName>LR.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MarketSage.Plugin.MACD" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IBAAIAAABYAoEECAkAAAAAQAAAQgiAAACAAMAAAAxEA=</HashCode>
+      <FileName>MACD.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MarketSage.Plugin.MFI" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIAAABYEoEAAAkAAAAAQAAAwgiAAACAAIAAAAhEI=</HashCode>
+      <FileName>MFI.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MarketSage.Plugin.OBV" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIAAABYEoEAAAkAAAAAQAgAQgCAAACAAAAAAAhEI=</HashCode>
+      <FileName>OBV.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MarketSage.Plugin.ROC" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIAAABYEoEAAAkAAAAAQAAAwgiAAACAAIAAAAhEI=</HashCode>
+      <FileName>ROC.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MarketSage.Plugin.RSI" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JAAAIAAABYEoEAAAkAAAEAQAAAwgiAAACAAIAAAAhEI=</HashCode>
+      <FileName>RSI.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MarketSage.Plugin.SMA" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIAAABYEoEAAAkAAAAAQAgAQgCAAACAAAAAAAhEI=</HashCode>
+      <FileName>SMA.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MarketSage.Plugin.VWAP" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIAAABYEoEAAAkAAAAAQAgAQgCAAACAAAAAAAhEI=</HashCode>
+      <FileName>VWAP.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MarketSage.Plugin.WillR" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIAAABYEoEAAAkAAAAAQAAAwgiAAACAAIAAAAhEA=</HashCode>
+      <FileName>WillR.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MarketSage.Plugin.WMA" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIAAABYEoEAAAkAAAAAQAgAQgCAAACAAAAAAAhEI=</HashCode>
+      <FileName>WMA.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

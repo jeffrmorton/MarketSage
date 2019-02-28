@@ -1,0 +1,5 @@
+bin\Release\IndicatorInterface.dll
+bin\Release\IndicatorInterface.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\IndicatorInterface.dll
+obj\Release\IndicatorInterface.pdb

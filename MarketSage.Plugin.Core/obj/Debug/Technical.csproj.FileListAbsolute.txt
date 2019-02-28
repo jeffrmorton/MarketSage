@@ -1,0 +1,14 @@
+C:\Documents and Settings\jmorton\My Documents\Visual Studio 2008\Projects\MarketSage\Technical\bin\Debug\Technical.dll
+C:\Documents and Settings\jmorton\My Documents\Visual Studio 2008\Projects\MarketSage\Technical\bin\Debug\Technical.pdb
+C:\Documents and Settings\jmorton\My Documents\Visual Studio 2008\Projects\MarketSage\Technical\bin\Debug\IndicatorInterface.dll
+C:\Documents and Settings\jmorton\My Documents\Visual Studio 2008\Projects\MarketSage\Technical\bin\Debug\IndicatorInterface.pdb
+C:\Documents and Settings\jmorton\My Documents\Visual Studio 2008\Projects\MarketSage\Technical\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jmorton\My Documents\Visual Studio 2008\Projects\MarketSage\Technical\obj\Debug\Technical.dll
+C:\Documents and Settings\jmorton\My Documents\Visual Studio 2008\Projects\MarketSage\Technical\obj\Debug\Technical.pdb
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\Technical\bin\Debug\Technical.dll
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\Technical\bin\Debug\Technical.pdb
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\Technical\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\Technical\obj\Debug\Technical.dll
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\Technical\obj\Debug\Technical.pdb
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\Technical\bin\Debug\MarketSage.Library.dll
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\Technical\bin\Debug\MarketSage.Library.pdb

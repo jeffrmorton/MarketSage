@@ -1,0 +1,8 @@
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\x86\Debug\MarketSage.Plugin.Experimental.dll
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\x86\Debug\MarketSage.Plugin.Experimental.pdb
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\x86\Debug\MarketSage.Library.dll
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\x86\Debug\otfeed_net.dll
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\x86\Debug\ZedGraph.dll
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\x86\Debug\MarketSage.Library.pdb
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Experimental\obj\x86\Debug\MarketSage.Plugin.Experimental.dll
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Experimental\obj\x86\Debug\MarketSage.Plugin.Experimental.pdb

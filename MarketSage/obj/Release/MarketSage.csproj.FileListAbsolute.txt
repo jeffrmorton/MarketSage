@@ -1,0 +1,59 @@
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\bin\Release\MarketSage.exe.config
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\bin\Release\MarketSage.exe
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\bin\Release\MarketSage.pdb
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\bin\Release\MarketSage.Library.dll
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\bin\Release\MarketSage.Plugin.Core.dll
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\bin\Release\ZedGraph.dll
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\bin\Release\otfeed_net.dll
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\bin\Release\MarketSage.Plugin.Core.pdb
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\bin\Release\MarketSage.Library.pdb
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\obj\Release\MarketSage.FormAbout.resources
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\obj\Release\MarketSage.FormMain.resources
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\obj\Release\MarketSage.FormPlugins.resources
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\obj\Release\MarketSage.FormSchedules.resources
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\obj\Release\MarketSage.Properties.Resources.resources
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\obj\Release\MarketSage.ZedGraphChart.resources
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\obj\Release\MarketSage.csproj.GenerateResource.Cache
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\obj\Release\MarketSage.exe
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\obj\Release\MarketSage.pdb
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage\bin\Release\MarketSage.exe.config
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage\bin\Release\MarketSage.exe
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage\bin\Release\MarketSage.pdb
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage\bin\Release\MarketSage.Library.dll
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage\bin\Release\MarketSage.Plugin.Core.dll
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage\bin\Release\ZedGraph.dll
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage\bin\Release\otfeed_net.dll
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage\bin\Release\MarketSage.Library.pdb
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage\bin\Release\MarketSage.Plugin.Core.pdb
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage\obj\Release\MarketSage.FormAbout.resources
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage\obj\Release\MarketSage.FormMain.resources
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage\obj\Release\MarketSage.FormPlugins.resources
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage\obj\Release\MarketSage.FormSchedules.resources
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage\obj\Release\MarketSage.Properties.Resources.resources
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage\obj\Release\MarketSage.ZedGraphChart.resources
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage\obj\Release\ResGen.read.1.tlog
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage\obj\Release\ResGen.write.1.tlog
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage\obj\Release\MarketSage.exe
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage\obj\Release\MarketSage.pdb
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\bin\Release\MarketSage.exe.config
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\bin\Release\MarketSage.exe
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\bin\Release\MarketSage.pdb
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\bin\Release\MarketSage.Library.dll
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\bin\Release\MarketSage.Plugin.Core.dll
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\bin\Release\ZedGraph.dll
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\bin\Release\otfeed_net.dll
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\bin\Release\MarketSage.Library.pdb
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\bin\Release\MarketSage.Plugin.Core.pdb
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\obj\Release\MarketSage.csprojResolveAssemblyReference.cache
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\obj\Release\MarketSage.FormAbout.resources
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\obj\Release\MarketSage.FormMain.resources
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\obj\Release\MarketSage.FormPlugins.resources
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\obj\Release\MarketSage.FormSchedules.resources
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\obj\Release\MarketSage.Properties.Resources.resources
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\obj\Release\MarketSage.ZedGraphChart.resources
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\obj\Release\MarketSage.csproj.GenerateResource.Cache
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\obj\Release\MarketSage.exe
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\obj\Release\MarketSage.pdb
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\bin\Release\GenericParsing.dll

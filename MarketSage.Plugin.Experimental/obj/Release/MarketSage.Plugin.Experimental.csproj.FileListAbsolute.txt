@@ -1,0 +1,98 @@
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Plugin.Experimental.dll
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Plugin.Experimental.pdb
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Library.dll
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Library.pdb
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.dll
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.pdb
+C:\Documents and Settings\jmorton\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Plugin.Experimental.dll
+C:\Documents and Settings\jmorton\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Plugin.Experimental.pdb
+C:\Documents and Settings\jmorton\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\jmorton\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.dll
+C:\Documents and Settings\jmorton\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.pdb
+C:\Documents and Settings\jmorton\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Library.dll
+C:\Documents and Settings\jmorton\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Library.pdb
+F:\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Plugin.Experimental.dll
+F:\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Plugin.Experimental.pdb
+F:\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Library.dll
+F:\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Library.pdb
+F:\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\obj\Release\ResolveAssemblyReference.cache
+F:\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.dll
+F:\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.pdb
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Plugin.Experimental.dll
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Plugin.Experimental.pdb
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Library.dll
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Library.pdb
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Experimental\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.dll
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.pdb
+F:\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Plugin.Experimental.dll
+F:\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Plugin.Experimental.pdb
+F:\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Library.dll
+F:\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Library.pdb
+F:\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Experimental\obj\Release\ResolveAssemblyReference.cache
+F:\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.dll
+F:\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.pdb
+F:\Projects\MarketSage2\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Plugin.Experimental.dll
+F:\Projects\MarketSage2\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Plugin.Experimental.pdb
+F:\Projects\MarketSage2\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Library.dll
+F:\Projects\MarketSage2\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Library.pdb
+F:\Projects\MarketSage2\MarketSage.Plugin.Experimental\obj\Release\ResolveAssemblyReference.cache
+F:\Projects\MarketSage2\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.dll
+F:\Projects\MarketSage2\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.pdb
+F:\Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Plugin.Experimental.dll
+F:\Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Plugin.Experimental.pdb
+F:\Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Library.dll
+F:\Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Library.pdb
+F:\Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Experimental\obj\Release\ResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.dll
+F:\Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.pdb
+E:\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Plugin.Experimental.dll
+E:\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Plugin.Experimental.pdb
+E:\Projects\MarketSage\MarketSage.Plugin.Experimental\obj\Release\ResolveAssemblyReference.cache
+E:\Projects\MarketSage\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.dll
+E:\Projects\MarketSage\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.pdb
+E:\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Library.dll
+E:\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Library.pdb
+G:\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Plugin.Experimental.dll
+G:\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Plugin.Experimental.pdb
+G:\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Library.dll
+G:\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Library.pdb
+G:\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\obj\Release\ResolveAssemblyReference.cache
+G:\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.dll
+G:\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.pdb
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage - Copy\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Plugin.Experimental.dll
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage - Copy\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Plugin.Experimental.pdb
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage - Copy\MarketSage.Plugin.Experimental\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage - Copy\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.dll
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage - Copy\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.pdb
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage - Copy\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Library.dll
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage - Copy\MarketSage.Plugin.Experimental\bin\Release\ZedGraph.dll
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage - Copy\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Library.pdb
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Plugin.Experimental.dll
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Plugin.Experimental.pdb
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Library.dll
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\ZedGraph.dll
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\otfeed_net.dll
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Library.pdb
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.dll
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.pdb
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Plugin.Experimental.dll
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Plugin.Experimental.pdb
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Library.dll
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\otfeed_net.dll
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\ZedGraph.dll
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Library.pdb
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage.Plugin.Experimental\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.dll
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.pdb
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Plugin.Experimental.dll
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Plugin.Experimental.pdb
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Library.dll
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\otfeed_net.dll
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\ZedGraph.dll
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Library.pdb
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.csprojResolveAssemblyReference.cache
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.dll
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.pdb

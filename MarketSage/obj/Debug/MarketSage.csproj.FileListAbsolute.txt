@@ -1,0 +1,36 @@
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\bin\Debug\MarketSage.exe.config
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\bin\Debug\MarketSage.exe
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\bin\Debug\MarketSage.pdb
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\bin\Debug\MarketSage.Library.dll
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\bin\Debug\MarketSage.Plugin.Core.dll
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\bin\Debug\ZedGraph.dll
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\bin\Debug\otfeed_net.dll
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\bin\Debug\MarketSage.Plugin.Core.pdb
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\bin\Debug\MarketSage.Library.pdb
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\obj\Debug\MarketSage.FormAbout.resources
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\obj\Debug\MarketSage.FormMain.resources
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\obj\Debug\MarketSage.FormPlugins.resources
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\obj\Debug\MarketSage.FormSchedules.resources
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\obj\Debug\MarketSage.Properties.Resources.resources
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\obj\Debug\MarketSage.csproj.GenerateResource.Cache
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\obj\Debug\MarketSage.exe
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage\obj\Debug\MarketSage.pdb
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\bin\Debug\MarketSage.exe.config
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\obj\Debug\MarketSage.exe
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\obj\Debug\MarketSage.pdb
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\obj\Debug\MarketSage.FormAbout.resources
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\obj\Debug\MarketSage.FormMain.resources
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\obj\Debug\MarketSage.FormPlugins.resources
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\obj\Debug\MarketSage.FormSchedules.resources
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\obj\Debug\MarketSage.Properties.Resources.resources
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\obj\Debug\MarketSage.ZedGraphChart.resources
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\obj\Debug\MarketSage.csproj.GenerateResource.Cache
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\bin\Debug\MarketSage.exe
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\bin\Debug\MarketSage.pdb
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\bin\Debug\MarketSage.Library.dll
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\bin\Debug\MarketSage.Plugin.Core.dll
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\bin\Debug\ZedGraph.dll
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\bin\Debug\otfeed_net.dll
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\bin\Debug\MarketSage.Library.pdb
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage\bin\Debug\MarketSage.Plugin.Core.pdb

@@ -1,0 +1,113 @@
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\Technical\bin\Release\MarketSage.Plugin.Core.dll
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\Technical\bin\Release\MarketSage.Plugin.Core.pdb
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\Technical\bin\Release\MarketSage.Library.dll
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\Technical\bin\Release\MarketSage.Library.pdb
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\Technical\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\Technical\obj\Release\MarketSage.Plugin.Core.dll
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\Technical\obj\Release\MarketSage.Plugin.Core.pdb
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin\bin\Release\MarketSage.Plugin.Core.dll
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin\bin\Release\MarketSage.Plugin.Core.pdb
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin\bin\Release\MarketSage.Library.dll
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin\bin\Release\MarketSage.Library.pdb
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin\obj\Release\MarketSage.Plugin.Core.dll
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin\obj\Release\MarketSage.Plugin.Core.pdb
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Plugin.Core.dll
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Plugin.Core.pdb
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Library.dll
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Library.pdb
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\obj\Release\MarketSage.Plugin.Core.dll
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\obj\Release\MarketSage.Plugin.Core.pdb
+C:\Documents and Settings\jmorton\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Plugin.Core.dll
+C:\Documents and Settings\jmorton\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Plugin.Core.pdb
+C:\Documents and Settings\jmorton\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Library.dll
+C:\Documents and Settings\jmorton\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Library.pdb
+C:\Documents and Settings\jmorton\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\jmorton\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\obj\Release\MarketSage.Plugin.Core.dll
+C:\Documents and Settings\jmorton\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\obj\Release\MarketSage.Plugin.Core.pdb
+F:\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Plugin.Core.dll
+F:\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Plugin.Core.pdb
+F:\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Library.dll
+F:\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Library.pdb
+F:\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\obj\Release\ResolveAssemblyReference.cache
+F:\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\obj\Release\MarketSage.Plugin.Core.dll
+F:\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\obj\Release\MarketSage.Plugin.Core.pdb
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Core\bin\Release\MarketSage.Plugin.Core.dll
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Core\bin\Release\MarketSage.Plugin.Core.pdb
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Core\bin\Release\MarketSage.Library.dll
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Core\bin\Release\MarketSage.Library.pdb
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Core\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Core\obj\Release\MarketSage.Plugin.Core.dll
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Core\obj\Release\MarketSage.Plugin.Core.pdb
+F:\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Core\bin\Release\MarketSage.Plugin.Core.dll
+F:\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Core\bin\Release\MarketSage.Plugin.Core.pdb
+F:\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Core\bin\Release\MarketSage.Library.dll
+F:\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Core\bin\Release\MarketSage.Library.pdb
+F:\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Core\obj\Release\ResolveAssemblyReference.cache
+F:\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Core\obj\Release\MarketSage.Plugin.Core.dll
+F:\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Core\obj\Release\MarketSage.Plugin.Core.pdb
+F:\Projects\MarketSage2\MarketSage.Plugin.Core\bin\Release\MarketSage.Plugin.Core.dll
+F:\Projects\MarketSage2\MarketSage.Plugin.Core\bin\Release\MarketSage.Plugin.Core.pdb
+F:\Projects\MarketSage2\MarketSage.Plugin.Core\bin\Release\MarketSage.Library.dll
+F:\Projects\MarketSage2\MarketSage.Plugin.Core\bin\Release\MarketSage.Library.pdb
+F:\Projects\MarketSage2\MarketSage.Plugin.Core\obj\Release\ResolveAssemblyReference.cache
+F:\Projects\MarketSage2\MarketSage.Plugin.Core\obj\Release\MarketSage.Plugin.Core.dll
+F:\Projects\MarketSage2\MarketSage.Plugin.Core\obj\Release\MarketSage.Plugin.Core.pdb
+F:\Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Core\bin\Release\MarketSage.Plugin.Core.dll
+F:\Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Core\bin\Release\MarketSage.Plugin.Core.pdb
+F:\Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Core\bin\Release\MarketSage.Library.dll
+F:\Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Core\bin\Release\MarketSage.Library.pdb
+F:\Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Core\obj\Release\ResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Core\obj\Release\MarketSage.Plugin.Core.dll
+F:\Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Plugin.Core\obj\Release\MarketSage.Plugin.Core.pdb
+E:\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Plugin.Core.dll
+E:\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Plugin.Core.pdb
+E:\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Library.pdb
+E:\Projects\MarketSage\MarketSage.Plugin.Core\obj\Release\ResolveAssemblyReference.cache
+E:\Projects\MarketSage\MarketSage.Plugin.Core\obj\Release\MarketSage.Plugin.Core.dll
+E:\Projects\MarketSage\MarketSage.Plugin.Core\obj\Release\MarketSage.Plugin.Core.pdb
+E:\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Library.dll
+G:\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Plugin.Core.dll
+G:\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Plugin.Core.pdb
+G:\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Library.dll
+G:\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Library.pdb
+G:\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\obj\Release\ResolveAssemblyReference.cache
+G:\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\obj\Release\MarketSage.Plugin.Core.dll
+G:\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\obj\Release\MarketSage.Plugin.Core.pdb
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage - Copy\MarketSage.Plugin.Core\bin\Release\MarketSage.Plugin.Core.dll
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage - Copy\MarketSage.Plugin.Core\bin\Release\MarketSage.Plugin.Core.pdb
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage - Copy\MarketSage.Plugin.Core\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage - Copy\MarketSage.Plugin.Core\obj\Release\MarketSage.Plugin.Core.dll
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage - Copy\MarketSage.Plugin.Core\obj\Release\MarketSage.Plugin.Core.pdb
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage - Copy\MarketSage.Plugin.Core\bin\Release\MarketSage.Library.dll
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage - Copy\MarketSage.Plugin.Core\bin\Release\ZedGraph.dll
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage - Copy\MarketSage.Plugin.Core\bin\Release\MarketSage.Library.pdb
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Plugin.Core.dll
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Plugin.Core.pdb
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Library.dll
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\ZedGraph.dll
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\otfeed_net.dll
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Library.pdb
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\obj\Release\MarketSage.Plugin.Core.dll
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Core\obj\Release\MarketSage.Plugin.Core.pdb
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Plugin.Core.dll
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Plugin.Core.pdb
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Library.dll
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\otfeed_net.dll
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\ZedGraph.dll
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Library.pdb
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage.Plugin.Core\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage.Plugin.Core\obj\Release\MarketSage.Plugin.Core.dll
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\MarketSage\MarketSage.Plugin.Core\obj\Release\MarketSage.Plugin.Core.pdb
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Plugin.Core.dll
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Plugin.Core.pdb
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Library.dll
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\otfeed_net.dll
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\ZedGraph.dll
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Library.pdb
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Core\obj\Release\MarketSage.Plugin.Core.csprojResolveAssemblyReference.cache
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Core\obj\Release\MarketSage.Plugin.Core.dll
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Core\obj\Release\MarketSage.Plugin.Core.pdb
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\GenericParsing.dll

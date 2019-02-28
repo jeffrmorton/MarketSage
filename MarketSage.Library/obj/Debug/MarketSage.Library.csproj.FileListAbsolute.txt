@@ -1,0 +1,48 @@
+C:\Documents and Settings\jmorton\My Documents\Visual Studio 2008\Projects\MarketSage\IndicatorInterface\bin\Debug\IndicatorInterface.dll
+C:\Documents and Settings\jmorton\My Documents\Visual Studio 2008\Projects\MarketSage\IndicatorInterface\bin\Debug\IndicatorInterface.pdb
+C:\Documents and Settings\jmorton\My Documents\Visual Studio 2008\Projects\MarketSage\IndicatorInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jmorton\My Documents\Visual Studio 2008\Projects\MarketSage\IndicatorInterface\obj\Debug\IndicatorInterface.dll
+C:\Documents and Settings\jmorton\My Documents\Visual Studio 2008\Projects\MarketSage\IndicatorInterface\obj\Debug\IndicatorInterface.pdb
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Library\bin\Debug\MarketSage.Library.dll
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Library\bin\Debug\MarketSage.Library.pdb
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Library\obj\Debug\MarketSage.Library.dll
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Library\obj\Debug\MarketSage.Library.pdb
+C:\Documents and Settings\jmorton\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Library\bin\Debug\MarketSage.Library.dll
+C:\Documents and Settings\jmorton\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Library\bin\Debug\MarketSage.Library.pdb
+C:\Documents and Settings\jmorton\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jmorton\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Library\obj\Debug\MarketSage.Library.dll
+C:\Documents and Settings\jmorton\My Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Library\obj\Debug\MarketSage.Library.pdb
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Library\bin\Debug\MarketSage.Library.dll
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Library\bin\Debug\MarketSage.Library.pdb
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Library\obj\Debug\MarketSage.Library.dll
+C:\Documents and Settings\Jeff\My Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Library\obj\Debug\MarketSage.Library.pdb
+F:\Projects\MarketSage2\MarketSage.Library\bin\Debug\MarketSage.Library.dll
+F:\Projects\MarketSage2\MarketSage.Library\bin\Debug\MarketSage.Library.pdb
+F:\Projects\MarketSage2\MarketSage.Library\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\MarketSage2\MarketSage.Library\obj\Debug\MarketSage.Library.dll
+F:\Projects\MarketSage2\MarketSage.Library\obj\Debug\MarketSage.Library.pdb
+F:\Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Library\bin\Debug\MarketSage.Library.dll
+F:\Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Library\bin\Debug\MarketSage.Library.pdb
+F:\Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Library\obj\Debug\ResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Library\obj\Debug\MarketSage.Library.dll
+F:\Documents\Visual Studio 2008\Projects\MarketSage2\MarketSage.Library\obj\Debug\MarketSage.Library.pdb
+E:\Projects\MarketSage\MarketSage.Library\bin\Debug\MarketSage.Library.dll
+E:\Projects\MarketSage\MarketSage.Library\bin\Debug\MarketSage.Library.pdb
+E:\Projects\MarketSage\MarketSage.Library\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\MarketSage\MarketSage.Library\obj\Debug\MarketSage.Library.dll
+E:\Projects\MarketSage\MarketSage.Library\obj\Debug\MarketSage.Library.pdb
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Library\bin\Debug\MarketSage.Library.dll
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Library\bin\Debug\MarketSage.Library.pdb
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Library\bin\Debug\otfeed_net.dll
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Library\bin\Debug\ZedGraph.dll
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Library\obj\Debug\MarketSage.Library.dll
+C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Library\obj\Debug\MarketSage.Library.pdb
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Library\bin\Debug\MarketSage.Library.dll
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Library\bin\Debug\MarketSage.Library.pdb
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Library\bin\Debug\otfeed_net.dll
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Library\bin\Debug\ZedGraph.dll
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Library\obj\Debug\MarketSage.Library.dll
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Library\obj\Debug\MarketSage.Library.pdb

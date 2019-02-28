@@ -1,0 +1,14 @@
+obj\Release\ResolveAssemblyReference.cache
+bin\Release\Technical.dll
+bin\Release\Technical.pdb
+bin\Release\IndicatorInterface.dll
+bin\Release\IndicatorInterface.pdb
+obj\Release\Technical.dll
+obj\Release\Technical.pdb
+bin\Debug\Technical.dll
+bin\Debug\Technical.pdb
+bin\Debug\IndicatorInterface.dll
+bin\Debug\IndicatorInterface.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Technical.dll
+obj\Debug\Technical.pdb

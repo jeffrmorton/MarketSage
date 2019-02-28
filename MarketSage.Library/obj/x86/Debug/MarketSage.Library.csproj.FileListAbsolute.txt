@@ -1,0 +1,6 @@
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Library\bin\x86\Debug\MarketSage.Library.dll
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Library\bin\x86\Debug\MarketSage.Library.pdb
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Library\bin\x86\Debug\otfeed_net.dll
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Library\bin\x86\Debug\ZedGraph.dll
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Library\obj\x86\Debug\MarketSage.Library.dll
+C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Library\obj\x86\Debug\MarketSage.Library.pdb

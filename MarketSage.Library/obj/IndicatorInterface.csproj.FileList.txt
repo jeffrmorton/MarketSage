@@ -1,0 +1,10 @@
+obj\Release\ResolveAssemblyReference.cache
+bin\Release\IndicatorInterface.dll
+bin\Release\IndicatorInterface.pdb
+obj\Release\IndicatorInterface.dll
+obj\Release\IndicatorInterface.pdb
+bin\Debug\IndicatorInterface.dll
+bin\Debug\IndicatorInterface.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\IndicatorInterface.dll
+obj\Debug\IndicatorInterface.pdb
