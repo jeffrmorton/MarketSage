@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Express 2012 for Windows Desktop
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{521CF026-2BBA-42B0-89C4-BC2735F12949}"
 	ProjectSection(SolutionItems) = preProject
 		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
@@ -24,8 +26,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketSage.Plugin.Experimen
 	ProjectSection(ProjectDependencies) = postProject
 		{3F2CCE55-61F7-4270-A72B-E406BE2690AE} = {3F2CCE55-61F7-4270-A72B-E406BE2690AE}
 	EndProjectSection
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericParsing", "..\genericparser_src\GenericParser_src\GenericParsing\GenericParsing.csproj", "{ADD325F8-CBD9-43FE-850D-E2F34D736C9D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -67,14 +67,11 @@ Global
 		{2ED434FC-5E2A-455B-99D8-1C679CEDD2B1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2ED434FC-5E2A-455B-99D8-1C679CEDD2B1}.Release|x86.ActiveCfg = Release|x86
 		{2ED434FC-5E2A-455B-99D8-1C679CEDD2B1}.Release|x86.Build.0 = Release|x86
-		{ADD325F8-CBD9-43FE-850D-E2F34D736C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ADD325F8-CBD9-43FE-850D-E2F34D736C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ADD325F8-CBD9-43FE-850D-E2F34D736C9D}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{ADD325F8-CBD9-43FE-850D-E2F34D736C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ADD325F8-CBD9-43FE-850D-E2F34D736C9D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{ADD325F8-CBD9-43FE-850D-E2F34D736C9D}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A323786-5EFE-45B1-8FF4-7E2A5EED5EEC}
 	EndGlobalSection
 EndGlobal

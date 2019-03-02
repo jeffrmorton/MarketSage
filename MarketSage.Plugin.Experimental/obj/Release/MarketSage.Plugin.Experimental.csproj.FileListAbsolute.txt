@@ -96,3 +96,15 @@ C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Experimental\bin\R
 C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.csprojResolveAssemblyReference.cache
 C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.dll
 C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.pdb
+C:\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Plugin.Experimental.dll
+C:\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Plugin.Experimental.pdb
+C:\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Library.dll
+C:\MarketSage\MarketSage.Plugin.Experimental\bin\Release\otfeed_net.dll
+C:\MarketSage\MarketSage.Plugin.Experimental\bin\Release\ZedGraph.dll
+C:\MarketSage\MarketSage.Plugin.Experimental\bin\Release\GenericParsing.dll
+C:\MarketSage\MarketSage.Plugin.Experimental\bin\Release\MarketSage.Library.pdb
+C:\MarketSage\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.csprojAssemblyReference.cache
+C:\MarketSage\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.csproj.CoreCompileInputs.cache
+C:\MarketSage\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.csproj.CopyComplete
+C:\MarketSage\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.dll
+C:\MarketSage\MarketSage.Plugin.Experimental\obj\Release\MarketSage.Plugin.Experimental.pdb

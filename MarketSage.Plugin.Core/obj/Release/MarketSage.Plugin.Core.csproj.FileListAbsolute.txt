@@ -111,3 +111,15 @@ C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Core\obj\Release\M
 C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Core\obj\Release\MarketSage.Plugin.Core.dll
 C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Core\obj\Release\MarketSage.Plugin.Core.pdb
 C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Plugin.Core\bin\Release\GenericParsing.dll
+C:\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Plugin.Core.dll
+C:\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Plugin.Core.pdb
+C:\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Library.dll
+C:\MarketSage\MarketSage.Plugin.Core\bin\Release\otfeed_net.dll
+C:\MarketSage\MarketSage.Plugin.Core\bin\Release\ZedGraph.dll
+C:\MarketSage\MarketSage.Plugin.Core\bin\Release\GenericParsing.dll
+C:\MarketSage\MarketSage.Plugin.Core\bin\Release\MarketSage.Library.pdb
+C:\MarketSage\MarketSage.Plugin.Core\obj\Release\MarketSage.Plugin.Core.csprojAssemblyReference.cache
+C:\MarketSage\MarketSage.Plugin.Core\obj\Release\MarketSage.Plugin.Core.csproj.CoreCompileInputs.cache
+C:\MarketSage\MarketSage.Plugin.Core\obj\Release\MarketSage.Plugin.Core.csproj.CopyComplete
+C:\MarketSage\MarketSage.Plugin.Core\obj\Release\MarketSage.Plugin.Core.dll
+C:\MarketSage\MarketSage.Plugin.Core\obj\Release\MarketSage.Plugin.Core.pdb

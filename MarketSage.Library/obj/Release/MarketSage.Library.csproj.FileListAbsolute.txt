@@ -86,3 +86,13 @@ C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Library\obj\Release\Marke
 C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Library\obj\Release\MarketSage.Library.pdb
 C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Library\obj\Release\MarketSage.Library.csprojResolveAssemblyReference.cache
 C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Library\bin\Release\GenericParsing.dll
+C:\MarketSage\MarketSage.Library\bin\Release\MarketSage.Library.dll
+C:\MarketSage\MarketSage.Library\bin\Release\MarketSage.Library.pdb
+C:\MarketSage\MarketSage.Library\bin\Release\GenericParsing.dll
+C:\MarketSage\MarketSage.Library\bin\Release\otfeed_net.dll
+C:\MarketSage\MarketSage.Library\bin\Release\ZedGraph.dll
+C:\MarketSage\MarketSage.Library\obj\Release\MarketSage.Library.csprojAssemblyReference.cache
+C:\MarketSage\MarketSage.Library\obj\Release\MarketSage.Library.csproj.CoreCompileInputs.cache
+C:\MarketSage\MarketSage.Library\obj\Release\MarketSage.Library.csproj.CopyComplete
+C:\MarketSage\MarketSage.Library\obj\Release\MarketSage.Library.dll
+C:\MarketSage\MarketSage.Library\obj\Release\MarketSage.Library.pdb

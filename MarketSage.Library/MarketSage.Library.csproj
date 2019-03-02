@@ -74,6 +74,10 @@
     <CodeAnalysisRuleSet>ManagedMinimumRules.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="GenericParsing, Version=1.1.3.22437, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\MarketSage\GenericParsing.dll</HintPath>
+    </Reference>
     <Reference Include="otfeed_net, Version=1.0.0.16, Culture=neutral, PublicKeyToken=67a87b0807991531, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\MarketSage\otfeed_net.dll</HintPath>
@@ -168,12 +172,6 @@
       <ProductName>Windows Installer 3.1</ProductName>
       <Install>true</Install>
     </BootstrapperPackage>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\genericparser_src\GenericParser_src\GenericParsing\GenericParsing.csproj">
-      <Project>{add325f8-cbd9-43fe-850d-e2f34d736c9d}</Project>
-      <Name>GenericParsing</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
