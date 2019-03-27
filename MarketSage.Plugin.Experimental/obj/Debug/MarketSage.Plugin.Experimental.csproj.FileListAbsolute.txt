@@ -63,3 +63,16 @@ C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin
 C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\obj\Debug\MarketSage.Plugin.Experimental.dll
 C:\Users\Jeff\Documents\Visual Studio 2008\Projects\MarketSage\MarketSage.Plugin.Experimental\obj\Debug\MarketSage.Plugin.Experimental.pdb
+C:\Users\jeffr\Documents\GitHub\MarketSage\MarketSage.Plugin.Experimental\bin\Debug\MarketSage.Plugin.Experimental.dll
+C:\Users\jeffr\Documents\GitHub\MarketSage\MarketSage.Plugin.Experimental\bin\Debug\MarketSage.Plugin.Experimental.pdb
+C:\Users\jeffr\Documents\GitHub\MarketSage\MarketSage.Plugin.Experimental\bin\Debug\MarketSage.Plugin.Experimental.dll.CodeAnalysisLog.xml
+C:\Users\jeffr\Documents\GitHub\MarketSage\MarketSage.Plugin.Experimental\bin\Debug\MarketSage.Plugin.Experimental.dll.lastcodeanalysissucceeded
+C:\Users\jeffr\Documents\GitHub\MarketSage\MarketSage.Plugin.Experimental\bin\Debug\MarketSage.Library.dll
+C:\Users\jeffr\Documents\GitHub\MarketSage\MarketSage.Plugin.Experimental\bin\Debug\otfeed_net.dll
+C:\Users\jeffr\Documents\GitHub\MarketSage\MarketSage.Plugin.Experimental\bin\Debug\ZedGraph.dll
+C:\Users\jeffr\Documents\GitHub\MarketSage\MarketSage.Plugin.Experimental\bin\Debug\GenericParsing.dll
+C:\Users\jeffr\Documents\GitHub\MarketSage\MarketSage.Plugin.Experimental\bin\Debug\MarketSage.Library.pdb
+C:\Users\jeffr\Documents\GitHub\MarketSage\MarketSage.Plugin.Experimental\obj\Debug\MarketSage.Plugin.Experimental.csproj.CoreCompileInputs.cache
+C:\Users\jeffr\Documents\GitHub\MarketSage\MarketSage.Plugin.Experimental\obj\Debug\MarketSage.Plugin.Experimental.csproj.CopyComplete
+C:\Users\jeffr\Documents\GitHub\MarketSage\MarketSage.Plugin.Experimental\obj\Debug\MarketSage.Plugin.Experimental.dll
+C:\Users\jeffr\Documents\GitHub\MarketSage\MarketSage.Plugin.Experimental\obj\Debug\MarketSage.Plugin.Experimental.pdb

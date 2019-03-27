@@ -46,3 +46,12 @@ C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Library\bin\Debug\otfeed_
 C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Library\bin\Debug\ZedGraph.dll
 C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Library\obj\Debug\MarketSage.Library.dll
 C:\Users\Jeff\Documents\Projects\MarketSage\MarketSage.Library\obj\Debug\MarketSage.Library.pdb
+C:\Users\jeffr\Documents\GitHub\MarketSage\MarketSage.Library\bin\Debug\MarketSage.Library.dll
+C:\Users\jeffr\Documents\GitHub\MarketSage\MarketSage.Library\bin\Debug\MarketSage.Library.pdb
+C:\Users\jeffr\Documents\GitHub\MarketSage\MarketSage.Library\bin\Debug\GenericParsing.dll
+C:\Users\jeffr\Documents\GitHub\MarketSage\MarketSage.Library\bin\Debug\otfeed_net.dll
+C:\Users\jeffr\Documents\GitHub\MarketSage\MarketSage.Library\bin\Debug\ZedGraph.dll
+C:\Users\jeffr\Documents\GitHub\MarketSage\MarketSage.Library\obj\Debug\MarketSage.Library.csproj.CoreCompileInputs.cache
+C:\Users\jeffr\Documents\GitHub\MarketSage\MarketSage.Library\obj\Debug\MarketSage.Library.csproj.CopyComplete
+C:\Users\jeffr\Documents\GitHub\MarketSage\MarketSage.Library\obj\Debug\MarketSage.Library.dll
+C:\Users\jeffr\Documents\GitHub\MarketSage\MarketSage.Library\obj\Debug\MarketSage.Library.pdb
